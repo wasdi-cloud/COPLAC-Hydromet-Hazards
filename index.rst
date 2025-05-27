@@ -229,6 +229,7 @@ Flood Depth Estimation
 Information content (including organization name of provider, this is the caption):
 Maps providing the maximum water depth per pixel for a specific flood extent map.
 The service is co-developed by LIST and CIMA Foundation, with Terradue and Indra.
+
 **Service Description:**
 
 This service provides high-resolution maps detailing the maximum water depth per pixel for
@@ -237,16 +238,20 @@ elaboration of the Copernicus Digital Elevation Model (COP-DEM_GLO-30). The core
 algorithm applies an optimized fixed window to execute the overlaying calculations.
 The user must provide as input a flood extent map that is either a Third Party product or the
 product generated using the Flood Event Detection service.
+
 **Spatial Scale of Observation:**
 
 The spatial scale/resolution depends on the input flood extent map. In case the Flood Event
 Detection service is used to generate the flood extent map the resolution will be 20 m.
 Temporal frequency:
 This is a one off service providing flood depth estimates for a specific flood extent map.
+
 **Nature of service:**
 
 This is an open source service.
+
 **Benefit of service:**
+
 The flood depth estimation service computes the maximum depth of flood water in each
 pixel. It can be used during a flood event and outside an emergency basis for prevention and
 risk assessment. Combined with vulnerability data provides a critical input for infering the
@@ -262,6 +267,7 @@ Price range:
 N/A
 
 **Input:**
+
 Flood extent map
 
 **Third Party Input:**
@@ -390,7 +396,9 @@ defined by the user.
 **Nature of service:**
 
 This is an open source service.
+
 **Benefit of service:**
+
 The flood frequency mapping service can be used in the risk reduction community in the
 broad sense to better understand the hazard, thus informing the risk assessment.
 Cost range:
@@ -505,6 +513,7 @@ On demand
 --------------------------------------------------
 
 **Service Name:**
+
 Flood Hazard Mapping
 
 **Information content :**
@@ -575,6 +584,7 @@ On demand.
 5. SAR Features service
 ==========================================================
 **Service Name:**
+
 SAR Features Service - Urban Coherence and Intensity Change Detection
 
 **Information content :**
@@ -603,6 +613,7 @@ Same as Sentinel-1 (preprocessed) SLC imagery
 Temporal frequency:
 This service provides one-off re-evaluation of the Hazard maps over the Area covered by the
 Empirical Frequency Maps derived from satellite.
+
 **Nature of service:**
 
 This is an open source service.
@@ -625,6 +636,7 @@ Cost range:
 * Image Segmentation parameters
 
 **Input:**
+
 * Sentinel-1 SLC imagery in TOPSAR (IW and EW) mode with the same radar geometry (incidence angle, orbit path)
 * Event pair: a set of two Sentinel-1 SLC images (master and secondary) captured around the event date to assess surface changes.
 * Reference pair: A set of two Sentinel-1 SLC images (master and secondary)taken before the event, serving as a baseline for comparison.
