@@ -45,7 +45,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
+html_theme_options = {
+    "sidebar_hide_name": False,  # keep section title visible
+    "navigation_with_keys": True,  # optional keyboard nav
+}
 #html_css_files = ["custom.css"]
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -54,7 +58,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_favicon = 'favicon.ico'
 
-html_logo = '_static/coplac.png'
+html_logo = '_static/coplac-2.png'
 
 
 import os
