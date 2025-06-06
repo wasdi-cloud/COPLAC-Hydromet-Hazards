@@ -1,9 +1,6 @@
 Flood Depth Mapping Details
 =========================================
 
-Service Description
------------------------------------------
-
 The Flood Depth Estimation (FDE) tool enables users to create comprehensive flood depth maps for designated areas and timeframes. 
 The system autonomously extracts water depth in urban and rural regions. 
 It accomplishes this by utilizing a floodwater map and either a Digital Elevation Model or an alternative HAND, according on which is superior in terms of quality.
@@ -113,5 +110,7 @@ The FDE service requires a specified number of mandatory parameters. The table b
      - The size of the subtile where to optimize the water depth estimation parameters.
      - YES
     
+References
+-----------------------------------------
 
 .. [1] P. Matgen, L. Giustarini, M. Chini, R. Hostache, M. Wood and S. Schlaffer, "Creating a water depth map from SAR flood extent and topography data," 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, 2016, pp. 7635-7638, doi: 10.1109/IGARSS.2016.7730991.
