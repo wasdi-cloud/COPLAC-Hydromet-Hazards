@@ -1,6 +1,11 @@
-Flood Extent Mapping
+Flood Event Mapping
 =========================================
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   ../detailed_description/flood_event_mapping
 
 **Information content:**
 
