@@ -1,7 +1,14 @@
 Flood Frequency Mapping
 =========================================
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   ../detailed_description/flood_frequency_mapping
+
 **Information content:**
+
 Estimation of a series of flood records for a user defined period, typically a season or
 multiple years, providing flood extent maps and the frequency map associated to these
 records.
