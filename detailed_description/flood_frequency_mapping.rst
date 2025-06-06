@@ -48,7 +48,7 @@ The flood frequency maps derived from the Sentinel-1 and Sentinel-2 processing c
     :alt: workflow of the FDE service
     :align: center
     :figwidth: 80%
-    :name: fig:workflow_fde
+    :name: fig:workflow_ffe
 
     Workflow of the FFM service
 

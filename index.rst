@@ -1,4 +1,4 @@
-CopernicusLAC HYDROMET HAZARDS
+CopernicusLAC Hydromet Hazards
 ==================================================
 
 .. toctree::
@@ -6,7 +6,7 @@ CopernicusLAC HYDROMET HAZARDS
    :maxdepth: 4
    :caption: Hydromet Hazards Services
 
-   high_level_description/flood_extent_mapping
+   high_level_description/flood_event_mapping
    high_level_description/flood_frequency_mapping
    high_level_description/flood_depth_mapping
    high_level_description/flood_hazard
@@ -30,7 +30,7 @@ capabilities established by the Centre in the region.
 
 Among the developed services, four of them will be dedicated to flood events. Specifically:
 
-* :doc:`flood extent mapping <high_level_description/flood_extent_mapping>`,
+* :doc:`flood event mapping <high_level_description/flood_event_mapping>`,
 * :doc:`flood frequency mapping <high_level_description/flood_frequency_mapping>`,
 * :doc:`flood depth mapping <high_level_description/flood_depth_mapping>`,
 * :doc:`flood hazard<high_level_description/flood_hazard>`.

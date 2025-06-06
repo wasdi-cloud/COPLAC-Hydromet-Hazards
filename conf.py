@@ -50,15 +50,17 @@ html_theme_options = {
     "sidebar_hide_name": False,  # keep section title visible
     "navigation_with_keys": True,  # optional keyboard nav
 }
-#html_css_files = ["custom.css"]
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
 html_favicon = 'favicon.ico'
 
 html_logo = '_static/coplac-2.png'
+
 
 
 import os
