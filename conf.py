@@ -61,7 +61,9 @@ html_favicon = 'favicon.ico'
 
 html_logo = '_static/coplac-2.png'
 
-
+## Remove source button 
+html_copy_source = False
+html_show_sourcelink = False
 
 import os
 import sys
