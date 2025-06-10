@@ -49,6 +49,16 @@ html_theme = 'furo'
 html_theme_options = {
     "sidebar_hide_name": False,  # keep section title visible
     "navigation_with_keys": True,  # optional keyboard nav
+    "light_css_variables": {
+        "color-brand-primary": "#0f294f",
+        "color-brand-content": "#0f294f",
+        "color-foreground-primary" : "#000",
+    },
+     "dark_css_variables": {
+        "color-brand-primary": "#50f3fd",
+        "color-brand-content": "#0c64d0",
+        "color-foreground-primary" : "#FFFFFF",
+    }
 }
 
 
@@ -59,11 +69,12 @@ html_static_path = ['_static']
 html_css_files = ["custom.css"]
 html_favicon = 'favicon.ico'
 
-html_logo = '_static/coplac-2.png'
+html_logo = '_static/coplac-3.png'
 
 ## Remove source button 
 html_copy_source = False
 html_show_sourcelink = False
+
 
 import os
 import sys
