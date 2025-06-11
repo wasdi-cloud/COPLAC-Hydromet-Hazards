@@ -1,11 +1,11 @@
-Flood Event Mapping
+Flood Event Detection
 =========================================
 
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-   ../detailed_description/flood_event_mapping
+   ../detailed_description/flood_event
 
 **Information content:**
 

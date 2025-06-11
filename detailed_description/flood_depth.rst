@@ -1,4 +1,4 @@
-Flood Depth Mapping Details
+Flood Depth Estimation Details
 =========================================
 
 The Flood Depth Estimation (FDE) tool enables users to create comprehensive flood depth maps for designated areas and timeframes. 

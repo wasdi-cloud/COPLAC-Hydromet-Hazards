@@ -5,7 +5,7 @@ Flood Frequency Mapping
    :maxdepth: 1
    :hidden:
 
-   ../detailed_description/flood_frequency_mapping
+   ../detailed_description/flood_frequency
 
 **Information content:**
 

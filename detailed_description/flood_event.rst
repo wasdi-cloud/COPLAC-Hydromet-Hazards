@@ -1,4 +1,4 @@
-Flood Event Mapping Details
+Flood Event Detection Details
 =========================================
 
 The Flood Event Detection (FED) service focuses on single-event flood detection from SAR and Optical satellite data. 

@@ -1,4 +1,4 @@
-Flood Hazard
+Flood Hazard Mapping
 =========================================
 
 **Information content:**
