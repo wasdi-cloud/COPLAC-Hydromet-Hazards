@@ -32,7 +32,9 @@ map is provided as the cumulative sum of these maps.
 **Spatial Scale of Observation:**
 
 The service generates high resolution maps using 20m resolution imagery.
-Temporal frequency:
+
+**Temporal frequency:**
+
 This is a one off service providing flood extent estimates for a specific observation time using
 EO data acquired before and after that time.
 
