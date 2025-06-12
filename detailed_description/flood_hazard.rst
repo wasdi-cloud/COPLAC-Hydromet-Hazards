@@ -99,11 +99,13 @@ The following inputs are needed to run the service:
 **Sentinel imagery**
 
 * Sentinel-1 GRD pairs of tiles overlapping the AOI subsequently acquired in the same orbit geometry, from which are derived:
-    * Flood Count Map
-    * Data Count Map
-    * Empirical Frequency Map
+
+  * Flood Count Map
+  * Data Count Map
+  * Empirical Frequency Map
 
 **Ancillary data: to be used in the FHM service**
+
 * ESA WorldCover - https://esa-worldcover.org
 * Global Surface Water (GSW) from JRC - https://global-surface-water.appspot.com/
 * Global Flood Awareness System (GloFAS) Hazard Maps - https://global-flood.emergency.copernicus.eu/general-information/data-access/ 
@@ -112,14 +114,14 @@ Parameters
 -----------------------------------------
 
 The following parameters are needed to run the service:
+
 * Area of Interest (AOI): the geographical region to be analyzed 
 
 Output
 -----------------------------------------
 
-The service will produce the following outputs:
+The service will produce the following outputs: improved Hazard maps for different return periods
 
-Improved Hazard maps for different return periods
 * *Definition*: flood hazard for each Return Period reporting the Flood Depth in cm
 * *Data type*: Geospatial layers 
 * *Format*: raster file
