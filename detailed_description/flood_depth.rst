@@ -15,7 +15,7 @@ Once the optimal threshold from the HAND-derived floodwater extent is determined
 The whole AOI is split into smaller tiles of the same size so that the local effects of flood size and terrain can be seen in each one. Then the optimal threshold is used to estimate the water depth for all pixels in each smaller tile. 
 In order to remove border effects of close tiles, a smoothing low-pass filter is also applied.
 
-.. figure:: ../_static/flood_depth_mapping/1_water_depth_Colombia.png
+.. figure:: ../_static/flood_depth/1_water_depth_Colombia.png
     :alt: water depth map of Colombia
     :align: center
     :figwidth: 80%
@@ -29,7 +29,7 @@ In order to remove border effects of close tiles, a smoothing low-pass filter is
    <div style="margin-top: 40px;"></div>
 
 
-.. figure:: ../_static/flood_depth_mapping/2_water_depth_Belize.png
+.. figure:: ../_static/flood_depth/2_water_depth_Belize.png
     :alt: water depth map of Belize
     :align: center
     :figwidth: 80%
@@ -43,7 +43,7 @@ Worflow
 
 The schema below describes the high-level workflow of the FDE service. 
 
-.. figure:: ../_static/flood_depth_mapping/3_workflow.png
+.. figure:: ../_static/flood_depth/3_workflow.png
     :alt: workflow of the FDE service
     :align: center
     :figwidth: 80%

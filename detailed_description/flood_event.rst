@@ -7,7 +7,7 @@ Products are flood delineation maps for specific flood events with maximum exten
 In terms of geophysical products, the FED service generates on demand a flood extent map of a single flooding event
 
 
-.. figure:: ../_static/flood_event_mapping/1_scheme.png
+.. figure:: ../_static/flood_event/1_scheme.png
     :alt: Flood event detection scheme
     :align: center
     :figwidth: 80%
@@ -30,7 +30,7 @@ The algorithm also uses as input an extract of the ESA Land Use / Land Cover map
 The service then merges the two maps into a unique one representing the maximum flood extension detected both from optical and Radar data sources.
 The output is a boolean map representing flooded (1) and not flooded (0) pixels.
 
-.. figure:: ../_static/flood_event_mapping/2_example_colombia.png
+.. figure:: ../_static/flood_event/2_example_colombia.png
     :alt: Flood event detection example in Colombia
     :align: center
     :figwidth: 80%
@@ -48,7 +48,7 @@ Worflow
 The schema shown in this section describes the high-level workflow of the FED service. 
 
 
-.. figure:: ../_static/flood_event_mapping/3_workflow.png
+.. figure:: ../_static/flood_event/3_workflow.png
     :alt: workflow of the FED service
     :align: center
     :figwidth: 80%
@@ -98,7 +98,7 @@ Stage-out
 End points of the service to store and visualize the results.
 
 
-.. figure:: ../_static/flood_event_mapping/4_example_jamaica.png
+.. figure:: ../_static/flood_event/4_example_jamaica.png
     :alt: Flood event detection example in Jamaica
     :align: center
     :figwidth: 80%

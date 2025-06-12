@@ -6,9 +6,9 @@ CopernicusLAC Hydromet Hazards
    :maxdepth: 4
    :caption: Hydromet Hazards Services
 
-   high_level_description/flood_event_mapping
-   high_level_description/flood_frequency_mapping
-   high_level_description/flood_depth_mapping
+   high_level_description/flood_event
+   high_level_description/flood_frequency
+   high_level_description/flood_depth
    high_level_description/flood_hazard
 
 About the CopernicusLAC Panama Centre

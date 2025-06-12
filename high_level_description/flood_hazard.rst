@@ -1,6 +1,12 @@
 Flood Hazard Mapping
 =========================================
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   ../detailed_description/flood_hazard
+
 **Information content:**
 
 Generation of enhanced flood hazard maps by merging modelled hazard maps from the

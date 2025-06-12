@@ -19,7 +19,7 @@ it was flooded out of the total number it was observed (see the figure below as 
 The FFM service has an initial execution to compute the flood frequency of the full 2015-2023 archive.
 Afterwards, the flood frequency map is updated once per year, incorporating all new Sentinel-1 and Sentinel-2 acquisitions in the analysis.
 
-.. figure:: ../_static/flood_frequency_mapping/1_flood_frequency_product.png
+.. figure:: ../_static/flood_frequency/1_flood_frequency_product.png
     :alt: Flood Frequency Map
     :align: center
     :figwidth: 80%
@@ -44,7 +44,7 @@ The flood maps derived from Sentinel-1 and Sentinel-2 are then ingested in the r
 The flood frequency maps derived from the Sentinel-1 and Sentinel-2 processing chains separately are finally merged into a single output product.
 
 
-.. figure:: ../_static/flood_frequency_mapping/2_workflow.png
+.. figure:: ../_static/flood_frequency/2_workflow.png
     :alt: workflow of the FDE service
     :align: center
     :figwidth: 80%
