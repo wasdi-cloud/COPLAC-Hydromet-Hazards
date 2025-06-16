@@ -1,4 +1,4 @@
-Flood Depth Estimation
+Flood Depth Mapping
 =========================================
 
 .. toctree::
@@ -38,7 +38,7 @@ This is an open source service.
 
 **Benefit of service:**
 
-The flood depth estimation service computes the maximum depth of flood water in each
+The flood depth mapping service computes the maximum depth of flood water in each
 pixel. It can be used during a flood event and outside an emergency basis for prevention and
 risk assessment. Combined with vulnerability data provides a critical input for infering the
 flood impact.

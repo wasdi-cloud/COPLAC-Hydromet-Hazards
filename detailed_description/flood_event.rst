@@ -1,19 +1,19 @@
-Flood Event Detection Details
+Flood Extent Mapping Details
 =========================================
 
-The Flood Event Detection (FED) service focuses on single-event flood detection from SAR and Optical satellite data. 
+The Flood Extent Mapping (FEM) service focuses on single-event flood detection from SAR and Optical satellite data. 
 Products are flood delineation maps for specific flood events with maximum extent derived from the combination of Sentinel-1 and Sentinel-2 imagery.
 
-In terms of geophysical products, the FED service generates on demand a flood extent map of a single flooding event
+In terms of geophysical products, the FEM service generates on demand a flood extent map of a single flooding event
 
 
 .. figure:: ../_static/flood_event/1_scheme.png
-    :alt: Flood event detection scheme
+    :alt: Flood Extent Mapping scheme
     :align: center
     :figwidth: 80%
     :name: fig:flood_event_scheme
 
-    Scheme about Flood Event Detection service workflow
+    Scheme about Flood Extent Mapping service workflow
 
 .. raw:: html
 
@@ -31,7 +31,7 @@ The service then merges the two maps into a unique one representing the maximum 
 The output is a boolean map representing flooded (1) and not flooded (0) pixels.
 
 .. figure:: ../_static/flood_event/2_example_colombia.png
-    :alt: Flood event detection example in Colombia
+    :alt: Flood Extent Mapping example in Colombia
     :align: center
     :figwidth: 80%
     :name: fig:flood_event_colombia
@@ -45,22 +45,22 @@ The output is a boolean map representing flooded (1) and not flooded (0) pixels.
 Worflow
 -----------------------------------------
 
-The schema shown in this section describes the high-level workflow of the FED service. 
+The schema shown in this section describes the high-level workflow of the FEM service. 
 
 
 .. figure:: ../_static/flood_event/3_workflow.png
-    :alt: workflow of the FED service
+    :alt: workflow of the FEM service
     :align: center
     :figwidth: 80%
-    :name: fig:workflow_fed
+    :name: fig:workflow_fem
 
-    Workflow of the FED service.
+    Workflow of the FEM service.
 
 .. raw:: html
 
    <div style="margin-top: 40px;"></div>
 
-Below are given details of each step of the chain described in the FED workflow.
+Below are given details of each step of the chain described in the FEM workflow.
 
 User selection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -99,7 +99,7 @@ End points of the service to store and visualize the results.
 
 
 .. figure:: ../_static/flood_event/4_example_jamaica.png
-    :alt: Flood event detection example in Jamaica
+    :alt: Flood Extent Mapping example in Jamaica
     :align: center
     :figwidth: 80%
     :name: fig:example_flood_event_jamaica

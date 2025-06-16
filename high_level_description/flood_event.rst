@@ -1,4 +1,4 @@
-Flood Event Detection
+Flood Extent Mapping
 =========================================
 
 .. toctree::
@@ -44,7 +44,7 @@ This is an open source service.
 
 **Benefit of service:**
 
-The flood mapping service tracks the extent of a flood both during an event and outside of
+The flood extent mapping service tracks the extent of a flood both during an event and outside of
 emergency situations for prevention and risk assessment. It also provides critical input for
 the flood depth mapping service.
 

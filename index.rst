@@ -31,8 +31,8 @@ capabilities established by the Centre in the region.
 
 Among the developed services, five of them will be dedicated to flood events. Specifically:
 
-* :doc:`flood event detection <high_level_description/flood_event>`,
+* :doc:`flood extent mapping <high_level_description/flood_event>`,
 * :doc:`flood frequency mapping <high_level_description/flood_frequency>`,
-* :doc:`flood depth estimation <high_level_description/flood_depth>`,
+* :doc:`flood depth mapping <high_level_description/flood_depth>`,
 * :doc:`flood hazard mapping<high_level_description/flood_hazard>`.
 * :doc:`urban flood mapping <detailed_description/urban_flood>`.

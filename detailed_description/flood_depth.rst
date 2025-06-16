@@ -1,10 +1,10 @@
-Flood Depth Estimation Details
+Flood Depth Mapping Details
 =========================================
 
-The Flood Depth Estimation (FDE) tool enables users to create comprehensive flood depth maps for designated areas and timeframes. 
+The Flood Depth Mapping (FlDM) tool enables users to create comprehensive flood depth maps for designated areas and timeframes. 
 The system autonomously extracts water depth in urban and rural regions. 
 It accomplishes this by utilizing a floodwater map and either a Digital Elevation Model or an alternative HAND, according on which is superior in terms of quality.
-In terms of geophysical products, the FDE service generates on demand flood water depth maps in decimetres.
+In terms of geophysical products, the FlDM service generates on demand flood water depth maps in decimetres.
 
 The algorithm for estimating water depth across a floodplain is based on the method proposed by Matgen et al. (2016) [1]_. 
 
@@ -41,20 +41,20 @@ In order to remove border effects of close tiles, a smoothing low-pass filter is
 Worflow
 -----------------------------------------
 
-The schema below describes the high-level workflow of the FDE service. 
+The schema below describes the high-level workflow of the FlDM service. 
 
 .. figure:: ../_static/flood_depth/3_workflow.png
-    :alt: workflow of the FDE service
+    :alt: workflow of the FlDM service
     :align: center
     :figwidth: 80%
-    :name: fig:workflow_fde
+    :name: fig:workflow_fldm
 
-    Workflow of the FDE service
+    Workflow of the FlDM service
 
 The workflow requires as input the flood extent map (provided by the user or eventually produced with the flood extent mapping service), and the DEM/HAND.
 After that, the service automatically calculates water depth based on the flood extent maps and the DEM derived over the AOI. 
 
-Below are given details of each step of the chain described in the FDE workflow.
+Below are given details of each step of the chain described in the FlDM workflow.
 
 Flood_extent map
 ^^^^^^^^^^^^^^^^^
@@ -86,7 +86,7 @@ where :math:`h_{x,y}` is the water height at the location with coordinates x, y 
 Input
 -----------------------------------------
 
-The FDE service requires in input:
+The FlDM service requires in input:
 
 * Historical flood extent map: Flood delineation map of the event to be analyzed. It can be produced with the flood extent mapping service or provided by the user.
 * Copernicus DEM GLO-30: Digital Elevation Model or HAND. 
@@ -94,7 +94,7 @@ The FDE service requires in input:
 Parameters
 -----------------------------------------
 
-The FDE service requires a specified number of mandatory parameters. The table below describes these parameters. 
+The FlDM service requires a specified number of mandatory parameters. The table below describes these parameters. 
 
 .. list-table::
    :widths: 20 60 20
