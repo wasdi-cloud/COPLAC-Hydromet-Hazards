@@ -16,7 +16,7 @@ The service is developed by CIMA Foundation with WASDI Sarl.
 
 **Service Description:**
 
-This service is applied over a user-defined time window, potentially spanning a season or
+This service is applied over a specified time window, potentially spanning a season or
 multiple years, to generate a time series of flood extent maps and associated statistics (i.e.,
 the empirical flood frequency map). It leverages SAR and Optical Sentinel imagery covering
 the Area of Interest (AOI) specified by the user.
