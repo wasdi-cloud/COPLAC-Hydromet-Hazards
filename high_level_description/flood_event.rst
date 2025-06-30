@@ -22,8 +22,7 @@ Extent Detection processors developed by CIMA Foundation.
 The user specifies an area of interest and sets the start date of the flood event. A default
 observation/acquisition period is applied automatically, but it can be adjusted as needed.
 The service automatically searches pre- and post-event Sentinel-1 images with the same
-geometry and post-event Sentinel-2 images covering the AOI. The service extracts the Land
-Use / Land Cover (LU/LC) cover map and Water Bodies map in the same area and triggers
+geometry and post-event Sentinel-2 images covering the AOI. The service extracts the Land Cover map and Water Bodies map in the same area and triggers
 the execution of the SAR Flood Extent Detection and Optical Flood Extent Detection for
 each satellite image found.
 As a result flood extent maps are generated for each observation and a maximum extent
@@ -63,8 +62,8 @@ the flood depth mapping service.
 * ESA WorldCover - https://esa-worldcover.org
 * Copernicus DEM: - https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM
 
-**Output:**
+**Output Products:**
 
 * SAR-Based Flood Extent Map
 * Optical-Based Flood Extent Map
-* Combined (max extent) Flood Extent Map
+* Combined (max extent and comparative) Flood Extent Maps
