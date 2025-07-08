@@ -1,16 +1,44 @@
 CopernicusLAC Hydromet Hazards
 ==================================================
 
+Hydromet Hazards Services
+=========================
+
+
 .. toctree::
    :hidden:
-   :maxdepth: 4
-   :caption: Hydromet Hazards Services
+   :maxdepth: 1
 
    high_level_description/flood_event
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
    high_level_description/flood_frequency
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
    high_level_description/flood_depth
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
    high_level_description/flood_hazard
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
    detailed_description/urban_flood
+
+
 
 About the CopernicusLAC Panama Centre
 ---------------------------------------

@@ -2,10 +2,11 @@ Flood Depth Mapping
 =========================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :hidden:
 
    ../detailed_description/flood_depth
+   ../tutorials/flood_depth
 
 **Information content:**
 
