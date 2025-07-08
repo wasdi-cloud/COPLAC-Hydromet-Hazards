@@ -6,6 +6,7 @@ Flood Extent Mapping
    :hidden:
 
    ../detailed_description/flood_event
+   ../tutorials/flood_event
 
 **Information content:**
 
