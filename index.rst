@@ -62,3 +62,36 @@ Among the developed services, five of them will be dedicated to flood events. Sp
 * :doc:`flood depth mapping <high_level_description/flood_depth>`,
 * :doc:`flood hazard mapping<high_level_description/flood_hazard>`.
 * :doc:`urban flood mapping <detailed_description/urban_flood>`.
+
+Copernicus Context
+---------------------------
+
+Beyond the EO missions of the Sentinel constellation, the Copernicus program provides dedicated services for 
+flood monitoring and risk assessment through the Emergency Management Service (CEMS), including the Global Flood Awareness System (GloFAS)
+and the Global Flood Monitoring (GFM) product. 
+
+Copernicus Emergency Management Services
+""""""""""""""""""""""""""""""""""""""""""""""""
+
+The Copernicus Emergency Management Service (`CEMS`_) offers a broad set of operational services to support disaster preparedness, response, and recovery:
+
+.. _CEMS: https://emergency.copernicus.eu/
+
+* *Rapid Mapping*: Delivers near-real-time geospatial products (e.g., flood extent, damage maps) in the immediate aftermath of disasters.
+* *Risk and Recovery Mapping (RRM)*: Provides detailed geoinformation products for hazard and risk characterization, supporting prevention, preparedness, and post-disaster recovery planning.
+* *Exposure Mapping*: Offers global datasets on human settlements and population distribution (e.g., GHSL) to assess exposure to hazards.
+
+GloFAS and Global Flood Monitoring
+""""""""""""""""""""""""""""""""""""""""""""""""
+
+The **Global Flood Awareness System** (`GloFAS`_) is part of the CEMS Early Warning and Monitoring component. It provides:
+
+.. _GloFAS: https://global-flood.emergency.copernicus.eu/
+
+* *Global-scale flood forecasts* up to 30 days in advance.
+* Integration of *meteorological forecasts, hydrological modeling (LISFLOOD)*, and *satellite/in situ data*.
+* Tools for visualizing hydrographs, anomaly maps, and flood hazard levels.
+
+In addition, the Global Flood Monitoring (`GFM`_) product offers continuous, automated monitoring of flood-affected areas worldwide, using Sentinel-1 data to detect flood extent with high spatial and temporal resolution.
+
+.. _GFM: https://global-flood.emergency.copernicus.eu/technical-information/glofas-gfm/
