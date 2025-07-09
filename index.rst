@@ -37,6 +37,13 @@ CopernicusLAC Hydromet Hazards
    detailed_description/urban_flood
 
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   copernicus_overview/copernicus_context
+
+
 
 About the CopernicusLAC Panama Centre
 ---------------------------------------
@@ -84,7 +91,7 @@ The Copernicus Emergency Management Service (`CEMS`_) offers a broad set of oper
 GloFAS and Global Flood Monitoring
 """"""""""""""""""""""""""""""""""""""""""""""""
 
-The **Global Flood Awareness System** (`GloFAS`_) is part of the CEMS Early Warning and Monitoring component. It provides:
+The Global Flood Awareness System (`GloFAS`_) is part of the CEMS Early Warning and Monitoring component. It provides:
 
 .. _GloFAS: https://global-flood.emergency.copernicus.eu/
 
@@ -95,3 +102,5 @@ The **Global Flood Awareness System** (`GloFAS`_) is part of the CEMS Early Warn
 In addition, the Global Flood Monitoring (`GFM`_) product offers continuous, automated monitoring of flood-affected areas worldwide, using Sentinel-1 data to detect flood extent with high spatial and temporal resolution.
 
 .. _GFM: https://global-flood.emergency.copernicus.eu/technical-information/glofas-gfm/
+
+Details concerning the CEMS are provided in the :doc:`dedicated section<copernicus_overview/copernicus_context>`.
