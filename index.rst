@@ -1,9 +1,6 @@
 CopernicusLAC Hydromet Hazards
 ==================================================
 
-Hydromet Hazards Services
-=========================
-
 
 .. toctree::
    :hidden:
