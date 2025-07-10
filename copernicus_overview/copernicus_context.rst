@@ -11,13 +11,13 @@ Copernicus Emergency Management Service
    list_of_services
    
 
-The Copernicus Emergency Management Service (CEMS) is designed to support
-Disaster Risk Management (DRM) regarding natural and man-made disasters
-both during the emergency response phase and outside. It consists of
-geoinformation products and services to better understand and manage
-disaster risks and is provided by the European Union's Earth Observation
-Program, Copernicus. The CEMS involves the implementation of
-different components, each having several modules:
+The Copernicus Emergency Management Service (EMS) is designed to support
+Disaster Risk Management (DRM) regarding natural and man-made disasters both
+during the emergency response phase and outside. It consists of geoinformation
+products and services to better understand and manage disaster risks and is provided
+by the European Union&#39;s Earth Observation Program, Copernicus. The Copernicus
+EMS involves the implementation of different components, each having several
+modules:
 
 -  CEMS Mapping including Rapid Mapping; :doc:`Copernicus Risk and Recovery Mapping<risk_recovery_mapping>` (CEMS RRM); 
    Validation; Aerial component. The Rapid Mapping
@@ -33,8 +33,8 @@ different components, each having several modules:
    global geospatial information on human settlements in the form of
    built-up area grids.
 
-National Disaster Management Authorities (NDMAs i.e. user organisations
-with a mandate concerning DRM) are the primary requesters of the
-CEMS services. NDMAs from outside Europe are able to activate
-the CEMS through the Emergency Response Coordination Centre of
-the European Union (ERCC, https://erccportal.jrc.ec.europa.eu/).
+National Disaster Management Authorities (NDMAs i.e. user organisations with
+a mandate concerning DRM) are the primary requesters of the Copernicus EMS
+services. NDMAs from outside Europe are able to activate the Copernicus EMS
+through the Emergency Response Coordination Centre of the 
+European Union (ERCC, https://erccportal.jrc.ec.europa.eu/).
