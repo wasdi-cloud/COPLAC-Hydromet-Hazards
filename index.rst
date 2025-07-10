@@ -1,7 +1,3 @@
-CopernicusLAC Hydromet Hazards
-==================================================
-
-
 .. toctree::
    :hidden:
    :maxdepth: 1
@@ -53,6 +49,12 @@ resilience of the Latin America and Caribbean countries by supporting their spat
 use, in a region particularly vulnerable to climate change-induced weather events and geohazards. 
 
 Read more about the `CopernicusLAC Panama Centre <https://www.copernicuslac-panama.eu/>`_.
+
+About the Specialised Processing Environment
+----------------------------------------------
+
+The specialised Processing Environment (PE)  is an open source platform to support  Hydromet Hazard applications with EO based services using data from the Copernicus Sentinel missions. 
+This is complementary to the `CopernicusLAC Platform <https://www.copernicuslac.terradue.com/cms-viewer>`_.
 
 Hydromet Hazards Services
 ---------------------------

@@ -6,6 +6,7 @@ Flood Frequency Mapping
    :hidden:
 
    ../detailed_description/flood_frequency
+   ../tutorials/flood_frequency
 
 **Information content:**
 
