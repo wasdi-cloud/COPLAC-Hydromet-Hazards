@@ -53,8 +53,9 @@ Read more about the `CopernicusLAC Panama Centre <https://www.copernicuslac-pana
 About the Specialised Processing Environment
 ----------------------------------------------
 
-The specialised Processing Environment (PE)  is an open source platform to support  Hydromet Hazard applications with EO based services using data from the Copernicus Sentinel missions. 
-This is complementary to the `CopernicusLAC Platform <https://www.copernicuslac.terradue.com/cms-viewer>`_.
+The :raw-html:`<a href="https://coplac.wasdi.net/#/login-coplac" target="_blank">Specialised Processing Environment (PE)</a>` 
+is an open source platform to support  Hydromet Hazard applications with EO based services using data from the Copernicus Sentinel missions. 
+This is complementary to the :raw-html:`<a href="https://www.copernicuslac.terradue.com/cms-viewer" target="_blank">CopernicusLAC Platform</a>`.
 
 Hydromet Hazards Services
 ---------------------------

@@ -79,3 +79,8 @@ html_show_sourcelink = False
 import os
 import sys
 #print(sys.path)
+
+rst_prolog = """
+.. role:: raw-html(raw)
+   :format: html
+"""
