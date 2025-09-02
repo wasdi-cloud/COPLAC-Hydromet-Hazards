@@ -12,13 +12,11 @@ In terms of geophysical products, the FLDM service generates on demand flood wat
 Access the platform
 -----------------------------------------
 
-The landing page of the CopernicusLAC Specialized PE is available at: https://coplac.wasdi.net/ .
+The landing page of the CopernicusLAC Specialized PE is available at: :raw-html:`<a href="https://coplac.wasdi.net/" target="_blank">https://coplac.wasdi.net/</a>`.
 To access the Specialized PE with the developed services and data, you first need to create your account.
 
-* The Specialized PE is available through: https://coplac.wasdi.net/#/login-coplac
-* Click on the **You do not have an account yet?** `Sign up here`_ link.
-
-.. _Sign up here: https://www.wasdi.net/auth/realms/wasdi/protocol/openid-connect/registrations?client_id=wasdi_client&redirect_uri=https%3A%2F%2Fwww.wasdi.net%2F%23%2Flogin&state=74f70630-4138-4022-94fd-1b9743ca5175&response_mode=fragment&response_type=code&scope=openid&nonce=e55a5a23-1292-40d2-8674-267fbaf12950
+* The Specialized PE is available through: :raw-html:`<a href="https://coplac.wasdi.net/#/login-coplac" target="_blank">https://coplac.wasdi.net/#/login-coplac</a>` 
+* Click on the **You do not have an account yet?** :raw-html:`<a href="https://www.wasdi.net/auth/realms/wasdi/protocol/openid-connect/registrations?client_id=wasdi_client&redirect_uri=https%3A%2F%2Fwww.wasdi.net%2F%23%2Flogin&state=74f70630-4138-4022-94fd-1b9743ca5175&response_mode=fragment&response_type=code&scope=openid&nonce=e55a5a23-1292-40d2-8674-267fbaf12950" target="_blank">Sign up here</a>` link
 
 .. figure:: ../_static/common/4_tutorial_sign_in.png
     :alt: sign in
@@ -44,7 +42,8 @@ To access the Specialized PE with the developed services and data, you first nee
 This last step is necessary so we can assign you the appropriate subscription.
 
 After registering, you can log in with your credentials. 
-You will be redirected to the **Marketplace** page (https://coplac.wasdi.net/#/marketplace), where the available **Service Applications** are listed.
+You will be redirected to the **Marketplace** page (:raw-html:`<a href="https://coplac.wasdi.net/#/marketplace" target="_blank">https://coplac.wasdi.net/#/marketplace</a>`), 
+where the available **Service Applications** are listed.
 
 .. figure:: ../_static/common/5_tutorial_marketplace.png
     :alt: marketplace

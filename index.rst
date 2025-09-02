@@ -39,6 +39,12 @@
 
    copernicus_overview/copernicus_context
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   UC2 Tutorial <UC2_tutorial/FFM_UC2_Tutorial>
+
 
 
 About the CopernicusLAC Panama Centre
@@ -48,14 +54,14 @@ The Copernicus Latin America and Caribbean Panama Centre (CopernicusLAC Panama) 
 resilience of the Latin America and Caribbean countries by supporting their spatial data management capacity and strategic 
 use, in a region particularly vulnerable to climate change-induced weather events and geohazards. 
 
-Read more about the `CopernicusLAC Panama Centre <https://www.copernicuslac-panama.eu/>`_.
+Read more about the :raw-html:`<a href="https://www.copernicuslac-panama.eu/" target="_blank">CopernicusLAC Panama Centre </a>`.
 
 About the Specialised Processing Environment
 ----------------------------------------------
 
 The :raw-html:`<a href="https://coplac.wasdi.net/#/login-coplac" target="_blank">Specialised Processing Environment (PE)</a>` 
 is an open source platform to support  Hydromet Hazard applications with EO based services using data from the Copernicus Sentinel missions. 
-This is complementary to the :raw-html:`<a href="https://www.copernicuslac.terradue.com/cms-viewer" target="_blank">CopernicusLAC Platform</a>`.
+This is complementary to the :raw-html:`<a href="https://www.copernicuslac.terradue.com" target="_blank">CopernicusLAC Platform</a>`.
 
 Hydromet Hazards Services
 ---------------------------
@@ -84,9 +90,7 @@ including the *Global Flood Awareness System (GloFAS)* and the
 Copernicus Emergency Management Services
 """"""""""""""""""""""""""""""""""""""""""""""""
 
-The Copernicus Emergency Management Service (`CEMS`_) offers a broad set of operational services to support disaster preparedness, response, and recovery:
-
-.. _CEMS: https://emergency.copernicus.eu/
+The Copernicus Emergency Management Service (:raw-html:`<a href="https://emergency.copernicus.eu/" target="_blank">CEMS</a>`) offers a broad set of operational services to support disaster preparedness, response, and recovery:
 
 * *Rapid Mapping*: Delivers near-real-time geospatial products (e.g., flood extent, damage maps) in the immediate aftermath of disasters.
 * *Risk and Recovery Mapping (RRM)*: Provides detailed geoinformation products for hazard and risk characterization, supporting prevention, preparedness, and post-disaster recovery planning.
@@ -95,16 +99,12 @@ The Copernicus Emergency Management Service (`CEMS`_) offers a broad set of oper
 GloFAS and Global Flood Monitoring
 """"""""""""""""""""""""""""""""""""""""""""""""
 
-The Global Flood Awareness System (`GloFAS`_) is part of the CEMS Early Warning and Monitoring component. It provides:
-
-.. _GloFAS: https://global-flood.emergency.copernicus.eu/
+The Global Flood Awareness System (:raw-html:`<a href="https://global-flood.emergency.copernicus.eu/" target="_blank">GloFAS</a>`) is part of the CEMS Early Warning and Monitoring component. It provides:
 
 * *Global-scale flood forecasts* up to 30 days in advance.
 * Integration of *meteorological forecasts, hydrological modeling (LISFLOOD)*, and *satellite/in situ data*.
 * Tools for visualizing hydrographs, anomaly maps, and flood hazard levels.
 
-In addition, the *Global Flood Monitoring* (`GFM`_) product offers continuous, automated monitoring of flood-affected areas worldwide, using Sentinel-1 data to detect flood extent with high spatial and temporal resolution.
-
-.. _GFM: https://global-flood.emergency.copernicus.eu/technical-information/glofas-gfm/
+In addition, the *Global Flood Monitoring* (:raw-html:`<a href="https://global-flood.emergency.copernicus.eu/technical-information/glofas-gfm/" target="_blank">GFM</a>`) product offers continuous, automated monitoring of flood-affected areas worldwide, using Sentinel-1 data to detect flood extent with high spatial and temporal resolution.
 
 Details concerning the CEMS are provided in the :doc:`dedicated section<copernicus_overview/copernicus_context>`.

@@ -11,11 +11,11 @@ These are systematically analyzed over a user-defined archive, based on a select
 Access the platform
 -----------------------------------------
 
-The landing page of the CopernicusLAC Specialized PE is available at: https://coplac.wasdi.net/ .
+The landing page of the CopernicusLAC Specialized PE is available at: :raw-html:`<a href="https://coplac.wasdi.net/" target="_blank">https://coplac.wasdi.net/</a>`.
 To access the Specialized PE with the developed services and data, you first need to create your account.
 
-* The Specialized PE is available through: https://coplac.wasdi.net/#/login-coplac
-* Click on the **You do not have an account yet?** `Sign up here`_ link.
+* The Specialized PE is available through: :raw-html:`<a href="https://coplac.wasdi.net/#/login-coplac" target="_blank">https://coplac.wasdi.net/#/login-coplac</a>` 
+* Click on the **You do not have an account yet?** :raw-html:`<a href="https://www.wasdi.net/auth/realms/wasdi/protocol/openid-connect/registrations?client_id=wasdi_client&redirect_uri=https%3A%2F%2Fwww.wasdi.net%2F%23%2Flogin&state=74f70630-4138-4022-94fd-1b9743ca5175&response_mode=fragment&response_type=code&scope=openid&nonce=e55a5a23-1292-40d2-8674-267fbaf12950" target="_blank">Sign up here</a>` link
 
 .. _Sign up here: https://www.wasdi.net/auth/realms/wasdi/protocol/openid-connect/registrations?client_id=wasdi_client&redirect_uri=https%3A%2F%2Fwww.wasdi.net%2F%23%2Flogin&state=74f70630-4138-4022-94fd-1b9743ca5175&response_mode=fragment&response_type=code&scope=openid&nonce=e55a5a23-1292-40d2-8674-267fbaf12950
 
@@ -43,7 +43,8 @@ To access the Specialized PE with the developed services and data, you first nee
 This last step is necessary so we can assign you the appropriate subscription.
 
 After registering, you can log in with your credentials. 
-You will be redirected to the **Marketplace** page (https://coplac.wasdi.net/#/marketplace), where the available **Service Applications** are listed.
+You will be redirected to the **Marketplace** page (:raw-html:`<a href="https://coplac.wasdi.net/#/marketplace" target="_blank">https://coplac.wasdi.net/#/marketplace</a>`), 
+where the available **Service Applications** are listed.
 
 .. figure:: ../_static/common/5_tutorial_marketplace.png
     :alt: marketplace
@@ -240,15 +241,15 @@ The service will produce as output the following GeoTIFF:
 * **Frequency_S2**: Shows the relative frequency of flooding from Sentinel-2 data, calculated as (CountMapFlood_S2/ CountMapData_S2).
 * **Frequency**: Overall frequency map combining Sentinel-1 and Sentinel-2 derived flood frequencies, with the frequency expressed aa percentage [0-100%].
 
-Legend 1:
+*Legend 1*:
 
-0 - No Data
+    0 - No Data
 
-1 - No Flood  
+    1 - No Flood  
 
-2 - Permanent Water
+    2 - Permanent Water
 
-3 - Flooded Areas
+    3 - Flooded Areas
  
 You can either visualize the layers directly within the Specialized PE workspace or download them to your local device for further processing.
 
