@@ -184,11 +184,9 @@ You can access the FFM workspaces in two ways:
 
 1. Direct Links:
 
--  Archive workspace link: `WASDI 2.0 -
-   COPLAC_UC2_archivo <https://coplac.wasdi.net/#/edit/17c4090b-4fcf-4c5e-a994-2ee3b19f55cb>`__
+-  Archive workspace link: :raw-html:`<a href="https://coplac.wasdi.net/#/edit/17c4090b-4fcf-4c5e-a994-2ee3b19f55cb" target="_blank">WASDI 2.0 - COPLAC_UC2_archivo</a>`
 
--  Operational workspace link: `WASDI 2.0 -
-   COPLAC_UC2_operacional <https://coplac.wasdi.net/#/edit/3c29010b-007c-4e8e-b8b0-9d9fdeaa6390>`__
+-  Operational workspace link: :raw-html:`<a href="https://coplac.wasdi.net/#/edit/3c29010b-007c-4e8e-b8b0-9d9fdeaa6390" target="_blank">WASDI 2.0 - COPLAC_UC2_operacional</a>`
 
 2. | From the workspaces manager section:
    | Both *COPLAC_UC2_archivo* and *COPLAC_UC2_operacional* are visible
