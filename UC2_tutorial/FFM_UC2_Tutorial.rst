@@ -25,6 +25,8 @@ The service has been developed by CIMA Research Foundation and WASDI
 Sarl and is available through the CopernicusLAC Specialized Processing
 Environment (PE), powered by WASDI Sarl.
 
+.. _access-platform-uc2:
+
 Access the platform
 --------------------
 
