@@ -118,7 +118,7 @@ To begin:
 
 **Note**: If you haven’t already generated a flood extent map in your
 workspace, you can create one using the **Flood Extent Mapping Service
-App**: `https://coplac.wasdi.net/#/cl_flood_extent/appDetails`.
+App**:  :raw-html:`<a href="https://coplac.wasdi.net/#/cl_flood_extent/appDetails" target="_blank">https://coplac.wasdi.net/#/cl_flood_extent/appDetails</a>`.
 
 .. image:: ../_static/UC1_tutorial/image5.png
    :width: 5.89583in
