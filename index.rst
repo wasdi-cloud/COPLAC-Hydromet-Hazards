@@ -43,13 +43,13 @@
    :hidden:
    :maxdepth: 1
 
-   UC1 Tutorial <UC1_tutorial/UC1_Tutorial>
+   Application in the Caribbean <UC1_tutorial/UC1_Tutorial>
 
 .. toctree::
    :hidden:
    :maxdepth: 1
 
-   UC2 Tutorial <UC2_tutorial/FFM_UC2_Tutorial>
+   Application in Colombia <UC2_tutorial/FFM_UC2_Tutorial>
 
 
 

@@ -1,5 +1,5 @@
-Flood Frequency Mapping Service - UC2
-=======================================
+Flood Frequency Mapping Service applied to Colombia
+=======================================================
 
 Service summary
 -------------------
@@ -14,9 +14,9 @@ generating updated flood extent maps using Sentinel-1 and Sentinel-2
 data and an automated change detection algorithm. Over time, the full
 stack of these flood extent maps is analysed to produce the
 comprehensive flood frequency map that shows the recurrence of flooding
-across the AOI, that for Use Case 2 is the Mojana region (Colombia).
+across the AOI, that for the pre-operational implementation of the service is the Mojana region (Colombia).
 
-The FFM service has an initial execution to compute the flood frequency
+The pre-operational implementation of the FFM service has an initial execution to compute the flood frequency
 of the full 2015-2024 archive. Afterwards, the flood frequency map is
 updated every six months, incorporating all new Sentinel-1 and
 Sentinel-2 acquisitions in the analysis.
@@ -24,6 +24,8 @@ Sentinel-2 acquisitions in the analysis.
 The service has been developed by CIMA Research Foundation and WASDI
 Sarl and is available through the CopernicusLAC Specialized Processing
 Environment (PE), powered by WASDI Sarl.
+
+To read more about the pre-operational implementation in Colombia, please take a look at :download:`this presentation <../_static/UC2_tutorial/CopernicusLAC-colombia.pdf>`
 
 .. _access-platform-uc2:
 
@@ -66,7 +68,7 @@ Figure 1. CopernicusLAC Specialized PE Login page and Sign-up form
 
    -  **Email address** you used during registration
 
-   -  Note stating that you are a *CopernicusLAC user – Use Case 2*.
+   -  Note stating that you are a *CopernicusLAC user* and request access to the workspaces included in this guide that you are interested in.
 
 The latter step is necessary so we can assign you the appropriate subscription.
 
