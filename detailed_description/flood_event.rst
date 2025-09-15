@@ -19,7 +19,7 @@ In terms of geophysical products, the FEM service generates on demand a flood ex
 
    <div style="margin-top: 40px;"></div>
 
-This service is based on two processing chains that exploit the AUTOWADE (AUTOmatic Water Areas Detector) algorithm, developed by CIMA.
+This service is based on two processing chains that exploit the AUTOWADE (AUTOmatic Water Areas Detector) algorithm, developed by CIMA Research Foundation.
 The first chain uses optical data to detect flooded areas based on a single Sentinel-2 (S2) image acquired after the flood event (autowade_s2) [1]_.
 The second chain uses Synthetic Aperture Radar (SAR) data, analysing a pair of Sentinel-1 (S1) images: one acquired before and one after the flood event (autowade_s1) [2]_. 
 These images must share the same relative orbit and cover the same geographic area.
@@ -28,6 +28,8 @@ Each flood detection algorithm produces a classified map with four states: maske
 If multiple maps are produced within the defined temporal window, these are then combined, as first by sensors, to generate a maximum extent map (S1 max extent and S2 max extent maps) representing the union of all flooded areas detected across the available scenes.
 When flood maps are successfully generated from both S1 and S2 data (i.e., optical data is available and not affected by cloud coverage), the service merges the two outputs into a single map representing the maximum flood extent detected by either source. 
 In this case, a comparative map is also generated to highlight areas of agreement and difference between SAR- and optical-derived flood maps. This map uses the following legend: no data (0); no flood (1); one map flood, the other one not flood (2); one map flood, the other one no data (3), both maps flood (4); permanent water (5).
+
+This service is provided by CIMA Research Foundation.
 
 .. figure:: ../_static/flood_event/2_example_colombia.png
     :alt: Flood Extent Mapping example in Colombia
@@ -40,6 +42,7 @@ In this case, a comparative map is also generated to highlight areas of agreemen
 .. raw:: html
 
    <div style="margin-top: 40px;"></div>
+
 
 Worflow
 -----------------------------------------

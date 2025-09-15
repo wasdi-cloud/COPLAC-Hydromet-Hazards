@@ -1,7 +1,7 @@
 Flood Extent Mapping Tutorial
 =========================================
 
-Serivice Summary
+Service Summary
 -----------------------------------------
 
 This service focuses on detecting floods over a period around a specific date (event start date) in a specific Area of Interest (AOI) defined by the user; it uses SAR and Optical Flood Extent Detection processors developed by CIMA Foundation. 

@@ -29,6 +29,9 @@ The main benefits are expected for high frequency/low return periods maps as sho
    
    Example of a stack of flood hazard maps were the different return periods are layered one on the other maintaining the minimum return period in each pixel, the left panel shows the original set of map and the right panel shows the enhanced one (South Vietnam). 
 
+This service is provided by CIMA Research Foundation and the Luxembourg Institute of Science and Technology (LIST).
+
+
 Worflow
 -----------------------------------------
 

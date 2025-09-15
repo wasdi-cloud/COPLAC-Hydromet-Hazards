@@ -1,7 +1,7 @@
 Flood Depth Mapping Tutorial
 =========================================
 
-Serivice Summary
+Service Summary
 -----------------------------------------
 
 The Flood Depth Mapping (FlDM) tool enables users to create comprehensive flood depth maps for designated areas and timeframes.

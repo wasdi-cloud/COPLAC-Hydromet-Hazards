@@ -27,7 +27,7 @@ Then, the urban-aware module is embedded into a multiscale network architecture,
 The Urban Flood Mapping (UFM) service exploits multitemporal Sentinel-1 data to derive floodwater extents over bare soil and in urbanized areas.
 The algorithm takes complex SLC SAR data from the Sentinel-1 mission as input and uses both intensity and phase information from multimodal SAR data over time and space to quickly and accurately map floodwater.
 The algorithm can be applied on a large scale using a comprehensive data set consisting of collections of archived multitemporal satellite imagery from the Sentinel-1 mission.
-The algorithm is based on a patented technology (LU500947, 2023/06/02) owned by LIST.
+The algorithm is based on a patented technology (LU500947, 2023/06/02) owned by the Luxembourg Institute of Science and Technology (LIST).
 It is implemented in the Copernicus LAC specialized processing environment platform, and stakeholders can access it through a web interface.
 
 The service employs the U-Net architecture together with an innovative urban-aware module that integrates urban-aware attention with channel attention. 
@@ -38,6 +38,8 @@ It requires no additional training during an emergency and can immediately infer
 To achieve accurate floodwater maps with a high degree of generalization, it is needed a well-trained model that utilizes a high-quality annotated dataset with significant diversity and volume.
 This ensures the model can effectively represent the characteristics of various flooded and non-flooded conditions.
 The algorithm has been trained using several events that occurred over diverse geographical areas, and it will constantly be retrained with future flood events in order to increase the diversity of the training dataset and to improve its performance (Zhao et al., 2022) [1]_.
+
+This service is provided by the Luxembourg Institute of Science and Technology (LIST).
 
 
 .. figure:: ../_static/urban_flood/1_flood_beira.png

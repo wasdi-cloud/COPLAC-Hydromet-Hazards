@@ -1,7 +1,7 @@
 Flood Frequency Mapping Tutorial
 =========================================
 
-Serivice Summary
+Service Summary
 -----------------------------------------
 
 The Flood Frequency Mapping (FFM) service exploits multitemporal flood extent mapping to generate a flood frequency map that illustrates flood occurrence patterns. 

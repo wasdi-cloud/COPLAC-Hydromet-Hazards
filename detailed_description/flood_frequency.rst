@@ -15,6 +15,8 @@ The service takes the full stack of Sentinel-1- and Sentinel-2-derived flood map
 The FFM service has an initial execution to compute the flood frequency of the full 2015-2024 archive. 
 Afterwards, the flood frequency map is updated every six months, incorporating all new Sentinel-1 and Sentinel-2 acquisitions in the analysis.
 
+This service is provided by CIMA Research Foundation and WASDI SARL.
+
 .. figure:: ../_static/flood_frequency/1_flood_frequency_product.png
     :alt: Flood Frequency Map
     :align: center
