@@ -2,35 +2,13 @@
    :hidden:
    :maxdepth: 1
 
-   high_level_description/flood_event
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   high_level_description/flood_frequency
-
+   Access the Specialised PE <specializedPE>
 
 .. toctree::
    :hidden:
    :maxdepth: 1
 
-   high_level_description/flood_depth
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   high_level_description/flood_hazard
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   detailed_description/urban_flood
+   Services <services>
 
 
 .. toctree::
@@ -43,14 +21,7 @@
    :hidden:
    :maxdepth: 1
 
-   Demonstration in the Caribbean <UC1_tutorial/UC1_Tutorial>
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   Demonstration in Colombia <UC2_tutorial/FFM_UC2_Tutorial>
-
+   Demonstrations <demonstrations>
 
 
 About the CopernicusLAC Panama Centre
