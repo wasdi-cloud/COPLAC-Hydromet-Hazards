@@ -71,9 +71,8 @@ You can access the FFM workspaces in two ways:
 2. | From the workspaces manager section:
    | Both *COPLAC_UC2_archivo* and *COPLAC_UC2_operacional* are visible
      in your workspaces list, as shown in Figure 9) if you are
-     **correctly registered as a CopernicusLAC user** (check the *Access
-     the platform* section).
-
+     **correctly registered as a CopernicusLAC user** (check the
+     :doc:`Access the platform<../specializedPE>` section).
 .. image:: ../_static/UC2_tutorial/image10.png
    :width: 5.39143in
    :height: 3.14961in

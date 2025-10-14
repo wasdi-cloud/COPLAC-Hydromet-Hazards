@@ -55,7 +55,7 @@ You can access the archive workspaces in two ways:
    | Both *FEM_archive_BELIZE* and *FEM_archive_BELIZE_operational* are visible
      in your workspaces list, as shown in Figure 1) if you are
      **correctly registered as a CopernicusLAC user** (check the
-     :ref:`Access the platform<access-platform-uc2>` section).
+     :doc:`Access the platform<../specializedPE>` section).
 
 ..
 
