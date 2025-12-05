@@ -1,8 +1,10 @@
 .. toctree::
    :hidden:
-   :maxdepth: 1
+   :maxdepth: 2
 
    Access the Specialised PE <specializedPE>
+
+   ES - El entorno de procesamiento especializado <specializedPE_ESP>
 
 .. toctree::
    :hidden:
