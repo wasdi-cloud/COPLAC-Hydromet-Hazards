@@ -13,4 +13,10 @@ The details about the two demonstrations can be found in the following sections:
 
    ../UC1_tutorial/UC1_Tutorial
    ../UC2_tutorial/FFM_UC2_Tutorial
-   ES - Servicio de Mapeo de Frecuencia de Inundaciones aplicado a Colombia <../UC2_tutorial/FFM_UC2_Tutorial_ESP>
+
+The demonstration about Colombia is also available in Spanish:
+
+.. toctree::
+   :maxdepth: 1
+   
+   ../UC2_tutorial/FFM_UC2_Tutorial_ESP

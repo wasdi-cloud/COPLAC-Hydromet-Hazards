@@ -14,3 +14,9 @@ A key component of this initiative is the development of five flood-related mapp
    high_level_description/flood_depth
    high_level_description/flood_hazard
    detailed_description/urban_flood
+
+The detailed descriptions of the Flood Extent Mapping, Flood Frequency Mapping d and Flood Depth Mapping are also available in Spanish:
+
+* :doc:`detailed_description/flood_event_ESP`
+* :doc:`detailed_description/flood_frequency_ESP`
+* :doc:`detailed_description/flood_depth_ESP`

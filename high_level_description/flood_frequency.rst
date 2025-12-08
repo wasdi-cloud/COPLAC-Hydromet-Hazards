@@ -2,10 +2,11 @@ Flood Frequency Mapping
 =========================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
    :hidden:
 
    ../detailed_description/flood_frequency
+   ../detailed_description/flood_frequency_ESP
    ../tutorials/flood_frequency
 
 **Information content:**

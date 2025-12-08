@@ -22,7 +22,7 @@ Para acceder al Specialised PE con los servicios y datos desarrollados, primero 
   * password
 
 * Confirma su dirección de correo electrónico: Recibirá un correo electrónico de confirmación (consulte también la carpeta SPAM.). Haga clic en el enlace que aparece en ese correo electrónico para verificar su dirección. Una vez confirmada, podrá acceder a la plataforma Specialised PE.
-* Después de registrarse, envíe un correo electrónico a business-team@wasdi.cloud con la siguiente información::
+* Después de registrarse, envíe un correo electrónico a business-team@wasdi.cloud con la siguiente información:
 
   * Confirmación de que se ha registrado en la plataforma. 
   * **Dirección de correo electrónico** que utilizó durante el registro
