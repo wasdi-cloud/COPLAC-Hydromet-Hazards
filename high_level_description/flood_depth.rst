@@ -22,7 +22,7 @@ elaboration of the Copernicus Digital Elevation Model (COP-DEM_GLO-30). The core
 algorithm applies dynamic windows to execute the overlaying calculations as adjusted as
 possible.
 The user must provide as input a flood extent map that is either a Third Party product or the
-product generated using the Flood Event Detection service.
+product generated using the Flood Extent Mapping service.
 
 **Spatial Scale of Observation:**
 
