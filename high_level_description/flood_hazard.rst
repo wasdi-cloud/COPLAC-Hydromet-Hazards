@@ -6,6 +6,7 @@ Flood Hazard Mapping
    :hidden:
 
    ../detailed_description/flood_hazard
+   ../tutorials/flood_hazard
 
 **Information content:**
 
